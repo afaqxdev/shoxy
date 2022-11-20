@@ -1,10 +1,16 @@
-# shoxy
+## Shoxy 
 
 A new Flutter project.
 
-## Getting Started
+#Shoxy is online selling famous brand Shoes
+👋 Hi, I’m @AfaqX
+👀 I’m interested in App development
+🌱 I’m currently learning flutter
+💞️ I’m looking to collaborate on project in flutter
+📫 How to reach me xdeveloper0@gmail.com
+AfaqX/AfaqX is a special repository.
 
-This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 
